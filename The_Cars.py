@@ -1,4 +1,4 @@
-cars = ["Volvo", "Ford", "Pegeout", "Toyota"]
+cars = ["Volvo", "Ford", "Pegeout", "Toyota","Aston-Martin"]
 if "Lada" in cars:
     print("Yes, it is")
 if "Ferrari" in cars:
